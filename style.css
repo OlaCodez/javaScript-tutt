@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    margin-top: 20%;
+}
+
+button{
+    color: aliceblue;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+    background-color: blueviolet;
+}
+
+input{
+    display: none;
+}
